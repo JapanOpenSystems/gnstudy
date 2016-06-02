@@ -19,7 +19,7 @@ J!P!S!P!S!J!S!J!S!P!P!J!S!S!S!P!O!S!O!J!O!P!S!JOPS!JOPS!
 ```
 
 Javaでのコードサンプル
-```
+```java
 class Jops {
   public static void main(String[] args) {
     // 出力した最終4文字
